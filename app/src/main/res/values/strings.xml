@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZX GAME BOOSTER TOOLS</string>
+    <string name="developer_name">ZUCCHERO XANN (DEVELOPER)</string>
+    <string name="nav_home">HOME</string>
+    <string name="nav_games">GAMES</string>
+    <string name="nav_tools">TOOLS</string>
+    <string name="nav_monitor">MONITOR</string>
+    <string name="nav_settings">SETTINGS</string>
+    <string name="quick_optimize">QUICK OPTIMIZE</string>
+</resources>
